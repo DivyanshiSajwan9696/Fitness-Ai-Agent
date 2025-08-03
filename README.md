@@ -95,3 +95,62 @@ Fitness Buddy is an AI-powered health and fitness assistant built using IBM Wats
 3. Vector Index retrieves trusted content from verified fitness/nutrition documents.
 
 4. Fitness Buddy responds with a personalized, natural-language answer.
+
+# 🖼️ Screenshots
+🔹 Setting up.
+
+<img width="1919" height="867" alt="Screenshot 2025-08-03 213957" src="https://github.com/user-attachments/assets/b723408b-5b97-4456-a8a8-d06add5643e2" />
+
+🔹 Agent Instructions.
+
+<img width="1919" height="864" alt="Screenshot 2025-08-03 211701" src="https://github.com/user-attachments/assets/f91198f5-5433-4161-8214-a3c0cf68e4ed" />
+
+
+🔹 Quick Start Questions.
+
+<img width="1881" height="865" alt="Screenshot 2025-08-03 213015" src="https://github.com/user-attachments/assets/aaaa276a-5feb-4608-96da-efebb3ad1e26" />
+
+🔹 Tools used & Testing.
+
+<img width="1919" height="865" alt="Screenshot 2025-08-03 221738" src="https://github.com/user-attachments/assets/fe90b546-c1b9-45ac-963e-2c9119c77cbc" />
+
+
+🔹 Deployment & Preview.
+
+<img width="1675" height="862" alt="Screenshot 2025-08-03 143222" src="https://github.com/user-attachments/assets/05c6c367-d14c-4e30-a47c-9806198c3600" />
+
+
+🔹 API References after Deployment.
+
+<img width="1105" height="769" alt="Screenshot 2025-08-03 143126" src="https://github.com/user-attachments/assets/30ee0875-67b5-48d2-8348-6575a9d27af6" />
+
+
+🔹 Resources List.
+
+<img width="1858" height="889" alt="Screenshot 2025-08-03 213540" src="https://github.com/user-attachments/assets/22eacfe7-773b-4d59-9550-9e30cda1af59" />
+
+
+📌 How to Run or Deploy
+
+1. Log in to IBM Cloud Lite: https://cloud.ibm.com
+2. Launch Watsonx.ai Studio
+3. Create a new AI Agent
+4. Upload financial PDFs to a Vector Index
+5. Choose Tools for web search (Google,Wikipedia,DuckDuckGo etc..)
+6. Configure agent instructions and topics (restricting AI from answering off-topic questions politely)
+7. Test in the preview panel
+8. Deploy via web snippet, Streamlit, or custom web UI
+
+🛣️ Future Scope
+- Integration with wearables for real-time tracking.
+
+- Gamified challenges to enhance user engagement.
+
+- Voice-enabled interactions for hands-free use.
+
+- Global reach with multilingual support.
+
+🔗 Useful Links
+- IBM Cloud Lite
+- IBM Watsonx.ai
+- IBM SkillsBuild
