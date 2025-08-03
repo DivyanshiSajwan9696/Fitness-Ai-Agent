@@ -1,5 +1,8 @@
 # Fitness-Ai-Agent
 A smart Fitness AI Agent built using IBM Cloud Lite and Watsonx.ai that delivers personalized workout guidance , motivation , and real-time fitness tips that helps you sweat smarter , not harder.
+<img width="1280" height="1280" alt="image" src="https://github.com/user-attachments/assets/41878e92-ecd6-45b4-9482-16c9940686f3" />
+
+
 # 🧩 Problem Statement
 In today’s fast-paced world, maintaining a healthy lifestyle is a major challenge. Lack of personalized guidance, time constraints, and fluctuating motivation often hinder consistency. Traditional fitness services are expensive, time-bound, and inflexible.
 Key issues:
